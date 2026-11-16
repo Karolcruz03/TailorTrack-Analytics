@@ -1,0 +1,6 @@
+{
+  "name": "TailorTrack Analytics",
+  "description": "Panel de control interactivo multivista para explorar y visualizar datos de ventas, productos, pedidos y métodos de pago con precisión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
