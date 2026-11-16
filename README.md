@@ -1,6 +1,6 @@
-# 📊 DataPrism — Interactive Data Visualization Dashboard
+# 📊 TailorTrack-Analytics — Interactive Data Visualization Dashboard
 
-**DataPrism** is an interactive data visualization and analytics dashboard designed and prototyped with **Google AI Studio**. It allows users to upload structured datasets (such as CSV files) and dynamically explore metrics across multiple visual perspectives.
+**TailorTrack-Analytics** is an interactive data visualization and analytics dashboard designed and prototyped with **Google AI Studio**. It allows users to upload structured datasets (such as CSV files) and dynamically explore metrics across multiple visual perspectives.
 
 ## ✨ Key Features
 * **Multi-View Visualizations:** Explore the same dataset through time-series line charts, category bar charts, distribution breakdowns, and scatter plots.
